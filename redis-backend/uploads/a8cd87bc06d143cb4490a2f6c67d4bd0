@@ -1,0 +1,11 @@
+studentId,fullName,dob,gender,email,phone,program,major
+S001,"Doe, John Michael",2000-01-15,Male,john.doe@example.com,123-456-7890,"Computer Science","Software Engineering"
+S002,"Smith, Anna Marie",1999-05-21,Female,anna.smith@example.com,987-654-3210,"Business Administration",Marketing
+S003,"Brown, James Alan",2001-03-12,Male,james.brown@example.com,555-123-4567,Engineering,"Mechanical Engineering"
+S004,"Johnson, Emily Rose",2000-11-08,Female,emily.johnson@example.com,222-333-4444,Medicine,Biochemistry
+S005,"Williams, Robert Lee",1998-07-04,Male,robert.williams@example.com,333-444-5555,Law,"Corporate Law"
+S006,"Jones, Linda Ann",1997-12-31,Female,linda.jones@example.com,444-555-6666,Arts,"Graphic Design"
+S007,"Davis, Michael Joseph",2002-09-17,Male,michael.davis@example.com,777-888-9999,Science,Biology
+S008,"Miller, Sarah Jane",2000-02-29,Female,sarah.miller@example.com,888-777-6666,Mathematics,Statistics
+S009,"Wilson, David Edward",1999-10-10,Male,david.wilson@example.com,999-888-7777,Physics,Astrophysics
+S010,"Moore, Karen Lynn",2001-06-05,Female,karen.moore@example.com,111-222-3333,Psychology,"Clinical Psychology"

@@ -1,0 +1,110 @@
+/* Global & Dark Mode Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #f7f9fc;
+  transition: background 0.3s, color 0.3s;
+}
+
+body.dark-mode {
+  background: #1e1e2f;
+  color: #ddd;
+}
+
+/* Header Styles */
+.app-header {
+  background: linear-gradient(135deg, #007bff, #00c6ff);
+  color: #fff;
+}
+
+.header-title {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.header-subtitle {
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.header-actions button {
+  transition: background 0.3s, color 0.3s;
+}
+
+.header-actions button:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Search Bar */
+.search-group {
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.search-input {
+  border-right: none;
+  border-radius: 50px 0 0 50px;
+  padding: 0.75rem 1rem;
+}
+
+.search-btn {
+  border-radius: 0 50px 50px 0;
+  padding: 0.75rem 1.5rem;
+}
+
+/* Card Styles */
+.card {
+  border: none;
+  border-radius: 15px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+}
+
+/* Form Input & Button Styling */
+.form-control, .form-select {
+  border-radius: 8px;
+  transition: border-color 0.2s;
+}
+
+.form-control:focus, .form-select:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0,123,255,0.3);
+}
+
+.btn {
+  border-radius: 50px;
+  transition: background 0.3s, box-shadow 0.3s;
+}
+
+.btn:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+/* Chart Container */
+.chart-container {
+  height: 300px;
+}
+
+/* Table Styles */
+.table thead th.sortable {
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.table thead th.sortable:hover {
+  color: #007bff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .app-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  .header-actions {
+    margin-top: 15px;
+  }
+}

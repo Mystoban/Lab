@@ -1,0 +1,11 @@
+studentId,fullName,dob,gender,email,phone,program,major
+S011,"Anderson, Mark Thomas",2000-08-20,Male,mark.anderson@example.com,101-202-3030,"Economics","International Economics"
+S012,"Thomas, Olivia Grace",2001-03-03,Female,olivia.thomas@example.com,202-303-4040,"Computer Science","Data Science"
+S013,"Taylor, Richard Lee",1998-12-11,Male,richard.taylor@example.com,303-404-5050,History,"Modern History"
+S014,"Moore, Samantha Rae",2000-05-22,Female,samantha.moore@example.com,404-505-6060,"Biology","Genetics"
+S015,"Martin, Edward James",1999-07-07,Male,edward.martin@example.com,505-606-7070,"Engineering","Electrical Engineering"
+S016,"Jackson, Emily Claire",2001-09-30,Female,emily.jackson@example.com,606-707-8080,"Business Administration","Finance"
+S017,"White, Daniel Scott",2000-11-15,Male,daniel.white@example.com,707-808-9090,"Physics","Quantum Mechanics"
+S018,"Harris, Nicole Anne",2002-04-18,Female,nicole.harris@example.com,808-909-0101,"Chemistry","Organic Chemistry"
+S019,"Clark, Benjamin Oliver",1998-06-05,Male,benjamin.clark@example.com,909-010-1112,"Political Science","International Relations"
+S020,"Lewis, Victoria Jane",2001-02-14,Female,victoria.lewis@example.com,010-111-1213,"Psychology","Cognitive Psychology"
